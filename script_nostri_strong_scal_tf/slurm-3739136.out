@@ -1,0 +1,153 @@
+Python located in: /work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/bin/python
+Using  nodes
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+Train Images array:  (50000, 32, 32, 3)
+Train Labels array:  (50000, 1)
+Test Images array:  (10000, 32, 32, 3)
+Test Labels array:  (10000, 1)
+Epoch 1/4
+5/5 - 8s - loss: 2.2358 - 8s/epoch - 2s/step
+Epoch 2/4
+5/5 - 1s - loss: 2.0596 - 939ms/epoch - 188ms/step
+Epoch 3/4
+5/5 - 1s - loss: 1.9257 - 937ms/epoch - 187ms/step
+Epoch 4/4
+5/5 - 1s - loss: 1.8305 - 938ms/epoch - 188ms/step
+Loss:  1.6958013772964478  accuracy:  0.4271000027656555
+ 
+ 
+Using  nodes
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+Train Images array:  (25000, 32, 32, 3)
+Train Labels array:  (25000, 1)
+Test Images array:  (5000, 32, 32, 3)
+Test Labels array:  (5000, 1)
+Epoch 1/4
+Train Images array:  (25000, 32, 32, 3)
+Train Labels array:  (25000, 1)
+Test Images array:  (5000, 32, 32, 3)
+Test Labels array:  (5000, 1)
+Epoch 1/4
+5/5 - 6s - loss: 2.2350 - 6s/epoch - 1s/step
+5/5 - 6s - loss: 2.2347 - 6s/epoch - 1s/step
+Epoch 2/4
+Epoch 2/4
+5/5 - 1s - loss: 2.0394 - 522ms/epoch - 104ms/step
+5/5 - 1s - loss: 2.0380 - 522ms/epoch - 104ms/step
+Epoch 3/4
+Epoch 3/4
+5/5 - 1s - loss: 1.9015 - 512ms/epoch - 102ms/step
+5/5 - 1s - loss: 1.8978 - 513ms/epoch - 103ms/step
+Epoch 4/4
+Epoch 4/4
+5/5 - 1s - loss: 1.7912 - 523ms/epoch - 105ms/step
+5/5 - 1s - loss: 1.7983 - 523ms/epoch - 105ms/step
+Loss:  1.6597472429275513  accuracy:  0.4426000118255615
+Loss:  1.6634929180145264  accuracy:  0.4302000105381012
+ 
+ 
+Using  nodes
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+Train Images array:  (16666, 32, 32, 3)
+Train Labels array:  (16666, 1)
+Test Images array:  (3333, 32, 32, 3)
+Test Labels array:  (3333, 1)
+Epoch 1/4
+Train Images array:  (16666, 32, 32, 3)
+Train Labels array:  (16666, 1)
+Test Images array:  (3333, 32, 32, 3)
+Test Labels array:  (3333, 1)
+Epoch 1/4
+Train Images array:  (16666, 32, 32, 3)
+Train Labels array:  (16666, 1)
+Test Images array:  (3333, 32, 32, 3)
+Test Labels array:  (3333, 1)
+Epoch 1/4
+6/6 - 5s - loss: 2.2247 - 5s/epoch - 882ms/step
+6/6 - 5s - loss: 2.2312 - 5s/epoch - 878ms/step
+6/6 - 5s - loss: 2.2252 - 5s/epoch - 877ms/step
+Epoch 2/4
+Epoch 2/4
+Epoch 2/4
+6/6 - 0s - loss: 2.0702 - 410ms/epoch - 68ms/step
+Epoch 3/4
+6/6 - 0s - loss: 2.0745 - 411ms/epoch - 69ms/step
+6/6 - 0s - loss: 2.0726 - 411ms/epoch - 69ms/step
+Epoch 3/4
+Epoch 3/4
+6/6 - 0s - loss: 1.9864 - 411ms/epoch - 69ms/step
+6/6 - 0s - loss: 1.9853 - 410ms/epoch - 68ms/step
+6/6 - 0s - loss: 1.9845 - 410ms/epoch - 68ms/step
+Epoch 4/4
+Epoch 4/4
+Epoch 4/4
+6/6 - 0s - loss: 1.9276 - 359ms/epoch - 60ms/step
+6/6 - 0s - loss: 1.9187 - 358ms/epoch - 60ms/step
+6/6 - 0s - loss: 1.9376 - 358ms/epoch - 60ms/step
+Loss:  1.820451259613037  accuracy:  0.3774377405643463
+Loss:  1.838810682296753  accuracy:  0.39273926615715027
+Loss:  1.8470375537872314  accuracy:  0.3759375810623169
+ 
+ 
+Using  nodes
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+5/5 - 5s - loss: 2.2268 - 5s/epoch - 987ms/step
+5/5 - 5s - loss: 2.2261 - 5s/epoch - 987ms/step
+5/5 - 5s - loss: 2.2261 - 5s/epoch - 986ms/step
+5/5 - 5s - loss: 2.2220 - 5s/epoch - 987ms/step
+Epoch 2/4
+Epoch 2/4
+Epoch 2/4
+Epoch 2/4
+5/5 - 0s - loss: 2.0236 - 281ms/epoch - 56ms/step
+5/5 - 0s - loss: 2.0159 - 281ms/epoch - 56ms/step
+5/5 - 0s - loss: 2.0233 - 281ms/epoch - 56ms/step
+Epoch 3/4
+Epoch 3/4
+Epoch 3/4
+5/5 - 0s - loss: 2.0128 - 282ms/epoch - 56ms/step
+Epoch 3/4
+5/5 - 0s - loss: 1.8843 - 322ms/epoch - 64ms/step
+5/5 - 0s - loss: 1.8898 - 323ms/epoch - 65ms/step
+5/5 - 0s - loss: 1.8968 - 323ms/epoch - 65ms/step
+Epoch 4/4
+Epoch 4/4
+Epoch 4/4
+5/5 - 0s - loss: 1.8929 - 325ms/epoch - 65ms/step
+Epoch 4/4
+5/5 - 0s - loss: 1.7998 - 279ms/epoch - 56ms/step
+5/5 - 0s - loss: 1.7940 - 281ms/epoch - 56ms/step
+5/5 - 0s - loss: 1.7936 - 281ms/epoch - 56ms/step
+5/5 - 0s - loss: 1.7823 - 282ms/epoch - 56ms/step
+Loss:  1.653425931930542  accuracy:  0.4399999976158142
+Loss:  1.6621497869491577  accuracy:  0.43959999084472656
+Loss:  1.6750001907348633  accuracy:  0.42719998955726624
+Loss:  1.6558308601379395  accuracy:  0.4375999867916107
+ 
+ 

@@ -11,16 +11,22 @@
 
 source /work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/scripts/env.sh
 
+echo "*** CHECK BUILD ***"
+horovodrun --check-build
+echo
+
 #pip install --no-cache-dir
 
-echo "*** TEST ***"
+echo "*** BASIC TEST ***"
 mpirun -n 4 python /work/projects/ulhpc-tutorials/PS10-Horovod/test_horovod.py
+echo
 
 echo "*** TENSORFLOW ***"
 mpirun -n 4 python /work/projects/ulhpc-tutorials/PS10-Horovod/tensorflow_horovod_basic.py
+echo
 
-echo "*** PYTORCH ***"
-mpirun -n 4 python /work/projects/ulhpc-tutorials/PS10-Horovod/pytorch_horovod_basic.py
+# echo "*** PYTORCH ***"
+# mpirun -n 4 python /work/projects/ulhpc-tutorials/PS10-Horovod/pytorch_horovod_basic.py
 
 pwd
 

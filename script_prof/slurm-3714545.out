@@ -1,0 +1,175 @@
+Python located in: /work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/bin/python
+Defaulting to user installation because normal site-packages is not writeable
+ERROR: You must give at least one requirement to install (see "pip help install")
+*** TEST ***
+2024-12-06 18:06:01.779680: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-12-06 18:06:01.779680: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-12-06 18:06:01.865739: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-12-06 18:06:01.865740: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-12-06 18:06:02.646075: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-12-06 18:06:02.646074: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-12-06 18:06:02.835704: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-12-06 18:06:02.835709: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+2024-12-06 18:06:04.057261: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2024-12-06 18:06:04.057302: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: iris-184
+2024-12-06 18:06:04.057311: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: iris-184
+2024-12-06 18:06:04.057424: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 550.54.15
+2024-12-06 18:06:04.057448: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 550.54.15
+2024-12-06 18:06:04.057456: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 550.54.15
+2024-12-06 18:06:04.070959: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2024-12-06 18:06:04.070995: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: iris-184
+2024-12-06 18:06:04.071004: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: iris-184
+2024-12-06 18:06:04.071113: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 550.54.15
+2024-12-06 18:06:04.071136: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 550.54.15
+2024-12-06 18:06:04.071144: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 550.54.15
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+2024-12-06 18:06:04.445775: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2024-12-06 18:06:04.445824: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: iris-186
+2024-12-06 18:06:04.445834: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: iris-186
+2024-12-06 18:06:04.445775: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:266] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2024-12-06 18:06:04.445822: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:168] retrieving CUDA diagnostic information for host: iris-186
+2024-12-06 18:06:04.445832: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:175] hostname: iris-186
+2024-12-06 18:06:04.445964: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.129.3
+2024-12-06 18:06:04.445966: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:199] libcuda reported version is: 535.129.3
+2024-12-06 18:06:04.445992: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.129.3
+2024-12-06 18:06:04.445999: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.129.3
+2024-12-06 18:06:04.446015: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:203] kernel reported version is: 535.129.3
+2024-12-06 18:06:04.446024: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:309] kernel version seems to match DSO: 535.129.3
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+List of TF visible physical GPUs :  []
+MPI_size = 4, MPI_rank = 1, MPI_local_size = 2,  MPI_local_rank = 0 platform = iris-186
+List of TF visible physical GPUs :  []
+MPI_size = 4, MPI_rank = 3, MPI_local_size = 2,  MPI_local_rank = 1 platform = iris-186
+List of TF visible physical GPUs :  []
+MPI_size = 4, MPI_rank = 2, MPI_local_size = 2,  MPI_local_rank = 1 platform = iris-184
+List of TF visible physical GPUs :  []
+MPI_size = 4, MPI_rank = 0, MPI_local_size = 2,  MPI_local_rank = 0 platform = iris-184
+*** TENSORFLOW ***
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+Train Images array:  (12500, 32, 32, 3)
+Train Labels array:  (12500, 1)
+Test Images array:  (2500, 32, 32, 3)
+Test Labels array:  (2500, 1)
+Epoch 1/4
+5/5 - 31s - loss: 2.2261 - 31s/epoch - 6s/step
+5/5 - 31s - loss: 2.2268 - 31s/epoch - 6s/step
+5/5 - 31s - loss: 2.2220 - 31s/epoch - 6s/step
+5/5 - 31s - loss: 2.2261 - 31s/epoch - 6s/step
+Epoch 2/4
+Epoch 2/4
+Epoch 2/4
+Epoch 2/4
+5/5 - 27s - loss: 2.0235 - 27s/epoch - 5s/step
+5/5 - 27s - loss: 2.0233 - 27s/epoch - 5s/step
+5/5 - 27s - loss: 2.0159 - 27s/epoch - 5s/step
+Epoch 3/4
+Epoch 3/4
+5/5 - 27s - loss: 2.0125 - 27s/epoch - 5s/step
+Epoch 3/4
+Epoch 3/4
+5/5 - 28s - loss: 1.8902 - 28s/epoch - 6s/step
+5/5 - 28s - loss: 1.8848 - 28s/epoch - 6s/step
+5/5 - 28s - loss: 1.8973 - 28s/epoch - 6s/step
+Epoch 4/4
+5/5 - 28s - loss: 1.8933 - 28s/epoch - 6s/step
+Epoch 4/4
+Epoch 4/4
+Epoch 4/4
+5/5 - 28s - loss: 1.7940 - 28s/epoch - 6s/step
+5/5 - 28s - loss: 1.8001 - 28s/epoch - 6s/step
+5/5 - 28s - loss: 1.7828 - 28s/epoch - 6s/step
+5/5 - 28s - loss: 1.7942 - 28s/epoch - 6s/step
+Loss:  1.6545681953430176  accuracy:  0.4392000138759613
+Loss:  1.6760300397872925  accuracy:  0.4291999936103821
+Loss:  1.6635615825653076  accuracy:  0.4415999948978424
+Loss:  1.657112717628479  accuracy:  0.43720000982284546
+*** PYTORCH ***
+/work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/lib/python3.10/site-packages/horovod/common/util.py:258: UserWarning:
+             Framework pytorch installed with version 2.0.0+cu117 but found version 2.1.0+cu121.
+             This can result in unexpected behavior including runtime errors.
+             Reinstall Horovod using `pip install --no-cache-dir` to build with the new version.
+  warnings.warn(get_version_mismatch_message(name, version, installed_version))
+/work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/lib/python3.10/site-packages/horovod/common/util.py:258: UserWarning:
+             Framework pytorch installed with version 2.0.0+cu117 but found version 2.1.0+cu121.
+             This can result in unexpected behavior including runtime errors.
+             Reinstall Horovod using `pip install --no-cache-dir` to build with the new version.
+  warnings.warn(get_version_mismatch_message(name, version, installed_version))
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+/work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/lib/python3.10/site-packages/horovod/common/util.py:258: UserWarning:
+             Framework pytorch installed with version 2.0.0+cu117 but found version 2.1.0+cu121.
+             This can result in unexpected behavior including runtime errors.
+             Reinstall Horovod using `pip install --no-cache-dir` to build with the new version.
+  warnings.warn(get_version_mismatch_message(name, version, installed_version))
+/work/projects/ulhpc-tutorials/PS10-Horovod/soft/miniconda/install/lib/python3.10/site-packages/horovod/common/util.py:258: UserWarning:
+             Framework pytorch installed with version 2.0.0+cu117 but found version 2.1.0+cu121.
+             This can result in unexpected behavior including runtime errors.
+             Reinstall Horovod using `pip install --no-cache-dir` to build with the new version.
+  warnings.warn(get_version_mismatch_message(name, version, installed_version))
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+MPI startup(): Warning: I_MPI_PMI_LIBRARY will be ignored since the hydra process manager was found
+rank= 3 size= 4
+Train Epoch:  0
+Epoch time:28 sec.
+Train Epoch:  1
+Epoch time:28 sec.
+Train Epoch:  2
+Epoch time:28 sec.
+Train Epoch:  3
+Epoch time:28 sec.
+Loss:  1.7391748428344727  accuracy:  0.4002000093460083
+rank= 0 size= 4
+Train Epoch:  0
+Epoch time:28 sec.
+Train Epoch:  1
+Epoch time:28 sec.
+Train Epoch:  2
+Epoch time:28 sec.
+Train Epoch:  3
+Epoch time:28 sec.
+Loss:  1.7391748428344727  accuracy:  0.4002000093460083
+rank= 1 size= 4
+Train Epoch:  0
+Epoch time:28 sec.
+Train Epoch:  1
+Epoch time:28 sec.
+Train Epoch:  2
+Epoch time:28 sec.
+Train Epoch:  3
+Epoch time:28 sec.
+Loss:  1.7391748428344727  accuracy:  0.4002000093460083
+rank= 2 size= 4
+Train Epoch:  0
+Epoch time:28 sec.
+Train Epoch:  1
+Epoch time:28 sec.
+Train Epoch:  2
+Epoch time:28 sec.
+Train Epoch:  3
+Epoch time:28 sec.
+Loss:  1.7391748428344727  accuracy:  0.4002000093460083
+/home/users/evaglietti/source/horovod
